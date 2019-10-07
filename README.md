@@ -36,3 +36,6 @@
  [![video](https://i.ytimg.com/vi/ZigsBpm-4rg/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA9OewtGbig8_iryk9meR07rLM8qw)](https://www.youtube.com/embed/ZigsBpm-4rg?start=40)
  -------------
 ### 위의 이미지를 클릭하면 해당 영상으로 이동합니다.
+
+-----------------------------------------------------------------------------
+# 감사합니다!
